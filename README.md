@@ -4,7 +4,7 @@
 
 👨‍💻 I'm a Software Engineer with a passion for coding and technology. My journey began in 2020, and since then, I've been continuously learning and growing in the tech space.
 
-🎓 I will be graduating from the University of California, Merced in May 2024 with a Bachelor's degree in Computer Science and Engineering, where I honed my skills in Python, C++, Image Processing, Computer Vision, and Database Systems.
+🎓 I recently graduated from the University of California, Merced in May 2024 with a Bachelor's degree in Computer Science and Engineering, where I honed my skills in Python, C++, Image Processing, Computer Vision, and Database Systems.
 
 🌱 Currently, I'm focused on improving my expertise in Data Science and Machine Learning, and I'm always on the lookout for new and challenging projects.
 
@@ -13,7 +13,7 @@
 ## Technologies & Tools
 
 - **Languages:** Python, SQL, C/C++, HTML, CSS, JavaScript.
-- **Frameworks & Libraries:** React, pandas, NumPy, PyTorch, TensorFlow, scikit-learn, Matplotlib.
+- **Frameworks & Libraries:** React, Next.js, pandas, NumPy, PyTorch, TensorFlow, scikit-learn, Matplotlib.
 - **Tools:** Git, MacOS/Windows/Linux, ArcGIS, MATLAB.
 - **Databases:** SQLite, CockroachDB, Firebase.
 

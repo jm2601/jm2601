@@ -6,20 +6,26 @@
 
 🎓 I recently graduated from the University of California, Merced in May 2024 with a Bachelor's degree in Computer Science and Engineering, where I honed my skills in Python, C++, Image Processing, Computer Vision, and Database Systems.
 
-🌱 Currently, I'm focused on improving my expertise in Data Science and Machine Learning, and I'm always on the lookout for new and challenging projects.
+🌱 Currently, I'm focused on improving my expertise in Full-Stack Development and Machine Learning, and I'm always on the lookout for new and challenging projects.
 
 🔭 My latest project is LifeLine Aid, which is a mobile application that connects refugees with humanitarian aid. It was developed at [CalHacks 2023](<https://www.calhacks.io/>) and received 1st Place for Best use of CockroachDB. Check it out [here](<https://devpost.com/software/lifeline-aid>).
 
 ## Technologies & Tools
 
 - **Languages:** Python, SQL, C/C++, HTML, CSS, JavaScript.
-- **Frameworks & Libraries:** React, Next.js, pandas, NumPy, PyTorch, TensorFlow, scikit-learn, Matplotlib.
-- **Tools:** Git, MacOS/Windows/Linux, ArcGIS, MATLAB.
-- **Databases:** SQLite, CockroachDB, Firebase.
+- **Frameworks & Libraries:** React, Next.js, Flask, FastAPI, Node.js, pandas, NumPy, PyTorch, TensorFlow, scikit-learn, Matplotlib.
+- **Tools:** Git, Zsh/Bash/Unix/Linux, ArcGIS, MATLAB.
+- **Databases:** SQLite, CockroachDB, Firebase, PostgreSQL.
 
 ## Projects
 
 Here are some highlights from my portfolio:
+
+### [Leaf Classification and Anomaly Detection Project](<https://github.com/ibarrx/Leaf-Classification>)
+As part of my internship with Omron Robotics and Safety Technologies, I implemented an 8-layer convolutional neural network (CNN) for leaf classification and anomaly detection in a cross-platform application. The CNN was trained on a dataset of 30,000 images to detect irregular patterns, such as bacterial infections and mold, achieving high precision in anomaly detection.
+
+- **Technologies Used:** TensorFlow, OpenCV, React Native, Firebase, Flask, Anaconda, Python
+- **Outcome:** Developed a real-time application allowing users to upload single or batch images for instant anomaly detection. This proof of concept demonstrated the potential of machine learning to automate quality control processes, with potential to reduce the time and costs associated with manual inspection.
 
 ### [Healthy UC](<https://devpost.com/software/healthy-uc>)
 Boasting a comprehensive database of UC Merced's Pavilion and YWDC's menu, this app guarantees to revolutionize the way you select your meals. With just a few taps, you'll be presented with a personalized meal suggestion tailored to your specific requirements - whether it's dietary restrictions, BMI, or target goals. The app even offers alternative options and shows you the nearest location to grab your healthy meal. Say goodbye to lengthy decision-making processes and hello to a simplified, efficient, and healthy lifestyle with our iOS app.
@@ -38,6 +44,7 @@ Feel free to check out more of my projects [here](<https://www.linkedin.com/in/j
 ## Connect With Me
 
 - **LinkedIn:** [javier-miranda-tech](<https://www.linkedin.com/in/javier-miranda-tech/>)
+- **LinkTree** [javier.dev](<https://linktr.ee/javier.dev>)
 - **Email:** <javier.miranda4420@gmail.com>
 
 Thank you for visiting my GitHub profile!
